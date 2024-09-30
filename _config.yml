@@ -1,0 +1,4 @@
+plugins:
+- jekyll-spaceship
+whitelist:
+- jekyll-spaceship
